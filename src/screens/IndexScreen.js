@@ -31,6 +31,8 @@ const {state, addBlogPost, deleteBlogPost} = useContext(Context)
     )
 }
 
+
+  
 const styles = StyleSheet.create({
 row:{
     borderTopWidth: 1,
